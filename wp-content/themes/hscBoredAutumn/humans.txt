@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Kevin Kirsche -- Lead Designer / Developer -- @kkirsche
+
+# THANKS
+
+    Hampden-Sydney College
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, SASS
+    Normalize.css, Bootstrap 3
+    jQuery, Modernizr, Grunt
