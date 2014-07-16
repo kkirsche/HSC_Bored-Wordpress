@@ -28,11 +28,11 @@ $PostID = $wp_query->post->ID;
         <div class="container">
             <div class="row aboveHeader">
                 <div class="col-lg-4 col-md-4 col-sm-4">
-                    <a href="#" title="Home"><img src="http://localhost:8888/wordpress/wp-content/themes/hscBoredAutumn/img/logo.png" alt="H-SC Bored Logo"></a>
+                    <a href="#" title="Home"><img src="http://localhost:8888/wordpress/HSC_Bored-Wordpress/wp-content/themes/hscBoredAutumn/img/logo.png" alt="H-SC Bored Logo"></a>
                 </div>
                 <div class="col-lg-offset-6  col-lg-2  col-md-offset-6 col-md-2 col-sm-offset-6 col-sm-2">
-                    <a href="#" target="_blank" title="H-SC Bored on Facebook"><img src="http://localhost:8888/wordpress/wp-content/themes/hscBoredAutumn/img/socialMedia/facebook.png" alt="H-SC Bored on Facebook"></a>
-                    <a href="#" target="_blank" title="H-SC Bored on Twitter"><img src="http://localhost:8888/wordpress/wp-content/themes/hscBoredAutumn/img/socialMedia/twitter.png" alt="H-SC Bored on Twitter"></a>
+                    <a href="#" target="_blank" title="H-SC Bored on Facebook"><img src="http://localhost:8888/wordpress/HSC_Bored-Wordpress/wp-content/themes/hscBoredAutumn/img/socialMedia/facebook.png" alt="H-SC Bored on Facebook"></a>
+                    <a href="#" target="_blank" title="H-SC Bored on Twitter"><img src="http://localhost:8888/wordpress/HSC_Bored-Wordpress/wp-content/themes/hscBoredAutumn/img/socialMedia/twitter.png" alt="H-SC Bored on Twitter"></a>
                 </div>
             </div>
             <div class="row">
