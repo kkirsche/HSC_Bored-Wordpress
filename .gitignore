@@ -11,7 +11,6 @@ wp-content/cache/
 wp-content/backups/
 sitemap.xml.gz
 wp-config.php
-index.php
 license.txt
 wp-activate.php
 wp-admin
